@@ -1,0 +1,11 @@
+# basic options
+title: My Awesome Site
+author: cpmays
+email: cpmays2018@gmail.com
+desciption: A test site
+twitter_username: cpmays
+github_username: cpmays
+
+# Build settings
+markdown: kramdown
+theme: minima
