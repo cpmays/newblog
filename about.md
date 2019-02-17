@@ -13,3 +13,7 @@ Reasons:
 ## Other thoughts
 
 This is interesting.
+
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
